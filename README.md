@@ -104,6 +104,32 @@ Every content type has a directory **listing** and a rich **detail** page.
 
 <!-- Screenshots live in assets/screenshots/ — see that folder's README for the full list. -->
 
+## 🤝 Contributing
+
+MijuDrama is currently in beta at [mijudrama.com](https://mijudrama.com).
+
+You can contribute by:
+
+- Reporting bugs via [Issues](https://github.com/bunseueng/mijudrama/issues)
+- Requesting missing dramas, donghua, or manhua titles
+- Suggesting new features or improvements
+
+All feedback from the community is appreciated.
+
+## ☕ Support
+
+If you enjoy MijuDrama, consider supporting development.
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/mijudrama)
+
 ## 📄 License
 
 [MIT](LICENSE) © bunseueng
+
+---
+
+<div align="center">
+
+Designed & Developed by **bunseueng**
+
+</div>
