@@ -106,30 +106,33 @@ Every content type has a directory **listing** and a rich **detail** page.
 
 ## 🤝 Contributing
 
-MijuDrama is currently in beta at [mijudrama.com](https://mijudrama.com).
+MijuDrama is in open beta — you can try it live at **[mijudrama.com](https://mijudrama.com)**. The application code is private, so what moves the project forward most is real-world feedback from people who use it.
 
-You can contribute by:
+Here's how you can help:
 
-- Reporting bugs via [Issues](https://github.com/bunseueng/mijudrama/issues)
-- Requesting missing dramas, donghua, or manhua titles
-- Suggesting new features or improvements
+- 🐞 **Hit a glitch?** Flag it on the [issue tracker](https://github.com/bunseueng/mijudrama/issues).
+- 🎬 **Catalog gap?** Ask for a drama, donghua, or manhua to be added.
+- 💡 **Bright idea?** Pitch a feature or a tweak you'd love to see.
 
-All feedback from the community is appreciated.
+Every report, request, and suggestion genuinely shapes what gets built next.
 
 ## ☕ Support
 
-If you enjoy MijuDrama, consider supporting development.
+MijuDrama is a solo project, built and run in spare hours. If it brightens your watchlist, a coffee helps keep the servers humming and the late-night commits flowing.
 
-[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/mijudrama)
+[![Buy me a coffee on Ko-fi](https://img.shields.io/badge/Buy_me_a_coffee-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mijudrama)
 
 ## 📄 License
 
-[MIT](LICENSE) © bunseueng
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-0AA06E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License" /></a>
+
+Open-sourced under the **MIT License** — free to study, fork, and build upon.
+Copyright © 2026 [**bunseueng**](https://github.com/bunseueng).
 
 ---
 
 <div align="center">
 
-Designed & Developed by **bunseueng**
+Crafted with ☕ &amp; late nights by **[bunseueng](https://github.com/bunseueng)**
 
 </div>
