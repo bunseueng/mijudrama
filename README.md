@@ -50,21 +50,59 @@
 
 ### Home
 
-![Home page](assets/screenshots/home.png)
+![Home](assets/screenshots/home.png)
 
-### Donghua Directory
+### Catalog
 
-![Donghua directory](assets/screenshots/donghua.png)
+Every content type has a directory **listing** and a rich **detail** page.
 
-### Title Detail
+#### Dramas
 
-![Title detail](assets/screenshots/detail.png)
+| Listing | Detail — _Let's Fight (来战)_ |
+|---|---|
+| ![Drama listing](assets/screenshots/drama-list.png) | ![Drama detail](assets/screenshots/drama-detail.png) |
 
-### Person Profile
+#### Movies
 
-![Person profile](assets/screenshots/person.png)
+| Listing | Detail — _Big World (2024)_ |
+|---|---|
+| ![Movie listing](assets/screenshots/movie-list.png) | ![Movie detail](assets/screenshots/movie-detail.png) |
 
-<!-- Drop your PNGs into assets/screenshots/ with these names (or edit the paths above). -->
+#### Variety Shows
+
+| Listing | Detail — _Keep Running (奔跑吧)_ |
+|---|---|
+| ![Variety listing](assets/screenshots/variety-list.png) | ![Variety detail](assets/screenshots/variety-detail.png) |
+
+#### Donghua
+
+| Listing | Detail — _Heaven Official's Blessing_ |
+|---|---|
+| ![Donghua listing](assets/screenshots/donghua-list.png) | ![Donghua detail](assets/screenshots/donghua-detail.png) |
+
+#### Manhua
+
+| Listing | Detail — _Grandmaster of Demonic Cultivation_ |
+|---|---|
+| ![Manhua listing](assets/screenshots/manhua-list.png) | ![Manhua detail](assets/screenshots/manhua-detail.png) |
+
+### People & Characters
+
+| People listing | Person — _Ju Jingyi_ |
+|---|---|
+| ![People listing](assets/screenshots/people-list.png) | ![Person detail](assets/screenshots/person-detail.png) |
+
+| Character search | Character — _Wuxian Wei_ |
+|---|---|
+| ![Characters listing](assets/screenshots/characters-list.png) | ![Character detail](assets/screenshots/character-detail.png) |
+
+### Community & Editorial
+
+| Forum | Updates | Blog |
+|---|---|---|
+| ![Forum](assets/screenshots/forum.png) | ![Updates](assets/screenshots/updates.png) | ![Blog](assets/screenshots/blog.png) |
+
+<!-- Screenshots live in assets/screenshots/ — see that folder's README for the full list. -->
 
 ## 📄 License
 
