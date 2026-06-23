@@ -60,6 +60,10 @@
 
 ![Title detail](assets/screenshots/detail.png)
 
+### Person Profile
+
+![Person profile](assets/screenshots/person.png)
+
 <!-- Drop your PNGs into assets/screenshots/ with these names (or edit the paths above). -->
 
 ## 📄 License
