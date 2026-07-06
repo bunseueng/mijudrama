@@ -1,7 +1,8 @@
 # Screenshots
 
-Live-site screenshots referenced from the root `README.md`. Captured at
-1440×900 viewport, retina 2× (2880×1800 PNG).
+Live-site screenshots referenced from the root `README.md`. Captured
+full-page at 1440-wide viewport, retina 2× (2880px-wide PNG, height varies
+per page), then palette-quantized.
 
 ## Home
 - `home.png` — home / editorial landing
